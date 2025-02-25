@@ -178,3 +178,5 @@ Client:
 Admin: 
 
     http://localhost:3000/admin.html
+________________________________________
+*Output:*
