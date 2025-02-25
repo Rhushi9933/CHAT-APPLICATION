@@ -180,3 +180,12 @@ Admin:
     http://localhost:3000/admin.html
 ________________________________________
 *Output:*
+![Image](https://github.com/user-attachments/assets/83197ceb-05e0-493b-9efe-e86d11f75a70)
+
+![Image](https://github.com/user-attachments/assets/f5f77e92-c68e-45f0-9cd4-60b5831161ca)
+
+![Image](https://github.com/user-attachments/assets/d5222c97-75f0-4bf8-8b3d-05c9c1b46f57)
+
+![Image](https://github.com/user-attachments/assets/3633d213-4dd6-4633-8c2c-1935bf3c94d7)
+
+![Image](https://github.com/user-attachments/assets/5fc3d813-9b1d-4ac6-8b35-277c540be180)
